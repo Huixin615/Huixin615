@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Huixin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&center=true&vCenter=true&width=760&lines=Open-source+contributor;AI+workflow+%26+backend+engineering;Small+patches%2C+clear+reasoning%2C+reliable+systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&center=true&vCenter=true&width=760&lines=Open-source+contributor;AI+workflow+%26+backend+engineering;Building+reliable+agentic+systems" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="./assets/sunlit-coding.svg" alt="Sunlit coding animation" width="820" />
 </p>
 
 <p align="center">
@@ -31,33 +35,28 @@ current focus:
 
 ---
 
-### Engineering Signal
-
-```text
-how I like to work:
-  trace the issue
-  find the ownership boundary
-  patch narrowly
-  validate with real tests
-  explain the change clearly
-```
-
----
-
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,docker,git,github,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,go,js,ts,java,kotlin,react,fastapi,docker,redis,git,github,vscode" alt="Tech stack icons" />
 </p>
-
----
-
-### GitHub Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Huixin615&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huixin615&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/badge/RocketMQ-D77310?style=flat-square&logo=apache&logoColor=white" alt="RocketMQ" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-0A66C2?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/MCP-111827?style=flat-square" alt="MCP" />
 </p>
+
+```text
+backend:
+  Python, Go, Java, Kotlin, JavaScript, TypeScript
+  FastAPI, Redis, RocketMQ, Docker
+
+ai:
+  LLM applications, RAG, AI agents, workflow orchestration, MCP tooling
+```
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/Huixin615/Huixin615@output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
