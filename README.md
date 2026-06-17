@@ -60,7 +60,7 @@ how I like to work:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Huixin615/Huixin615/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="https://cdn.jsdelivr.net/gh/Huixin615/Huixin615@output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
 ---
