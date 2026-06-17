@@ -49,15 +49,6 @@ current focus:
   <img src="https://img.shields.io/badge/MCP-111827?style=flat-square" alt="MCP" />
 </p>
 
-```text
-backend:
-  Python, Go, Java, Kotlin, JavaScript, TypeScript
-  FastAPI, Redis, RocketMQ, Docker
-
-ai:
-  LLM applications, RAG, AI agents, workflow orchestration, MCP tooling
-```
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/Huixin615/Huixin615@output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
