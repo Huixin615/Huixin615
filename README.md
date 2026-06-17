@@ -62,6 +62,3 @@ ai:
   <img src="https://cdn.jsdelivr.net/gh/Huixin615/Huixin615@output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
----
-
-> Make the fix small enough to review, and clear enough to trust.
